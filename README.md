@@ -14,3 +14,5 @@
 *  footmark/docs/index.md是一个符号链接,会指向2018.md之类的文件.
 *  项目使用了mkdocs管理,由于官方版的源码不支持导航到未在yml文件中明确指出的文件,请使用修改后的版本,就是本人仓库中的mkdocs子项目.
 *  如所在系统不支持符号链接,请自行查找相关解决方案.
+4. 外链资源
+* [计算机书籍控](http://bestcbooks.com/categories/c-plus-plus/)
